@@ -1,0 +1,9 @@
+\beamer@endinputifotherversion {3.12pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Motivation}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Objectives}{5}{0}{1}
+\beamer@sectionintoc {2}{Results}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{Results 1}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{Results 2}{11}{0}{2}
+\beamer@sectionintoc {3}{Conclusions}{13}{0}{3}
